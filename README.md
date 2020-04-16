@@ -8,7 +8,7 @@ The issue list for this project is exclusively for bug reports and feature reque
 
 ## Tutorial
 
-- [YouTube video](https://youtu.be/aSiaBTjGXNg)
+- [YouTube video](https://youtu.be/xAOR8sI3UrU)
 - [GitHub repository](https://github.com/egillespie/markdown-only-website)
 - [Demo website](https://egillespie.github.io/markdown-only-website/)
 

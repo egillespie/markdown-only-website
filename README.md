@@ -1,4 +1,4 @@
-# Howto: Make a website using only Markdown
+# Make a website using only Markdown
 
 ## Questions
 
